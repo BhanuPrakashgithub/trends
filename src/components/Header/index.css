@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.fast {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.slow {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 10px;
+}
+.lists {
+  list-style-type: none;
+}
+.paras {
+  margin: 10px;
+  color: #000000;
+  border-width: 0px;
+}
+.image1 {
+  width: 300px;
+}
+.firm {
+  margin: 10px;
+}

@@ -1,0 +1,27 @@
+/* Write your CSS code here */
+.main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.back {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.head1 {
+  color: black;
+  font-family: 'Roboto';
+}
+.para1 {
+  color: #e2e8f0;
+  font-family: 'Roboto';
+}
+.but {
+  background-color: #0b69ff;
+  width: 100px;
+  color: white;
+  border-radius: 10px;
+  border-width: 0px;
+  padding: 10px;
+}
